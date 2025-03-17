@@ -13,8 +13,8 @@ We’ve organized these powerful tools by their primary use-case, focusing espec
 - **🦎 Axolotl** ([GitHub ★8.9k](https://github.com/OpenAccess-AI-Collective/axolotl)): Simplified fine-tuning via YAML for LLMs, LoRA/QLoRA, and instruction tuning.
 - **💧 H2O LLM Studio** ([GitHub ★4.2k](https://github.com/h2oai/h2o-llmstudio)): No-code GUI for LLM fine-tuning with experiment tracking.
 - **🌈 LLamaFactory** ([GitHub ★44.4k](https://github.com/hiyouga/LLaMA-Factory)): YAML and UI based easy fine-tuning.
-- **🔬 MS-Swift** ([GitHub ★44.4k](https://github.com/modelscope/ms-swift)):LLM fine-tuning.
-- **🧠 TorchTune** ([GitHub ★44.4k](https://github.com/pytorch/torchtune)):LLM fine-tuning for Pytorch team.
+- **🔬 MS-Swift** ([GitHub ★6.3k](https://github.com/modelscope/ms-swift)):LLM fine-tuning.
+- **🧠 TorchTune** ([GitHub ★5k](https://github.com/pytorch/torchtune)):LLM fine-tuning for Pytorch team.
 
 ## 2️⃣ Retrieval-Augmented Generation (RAG) 🔍
 - **🦙 LlamaIndex** ([GitHub ★40k](https://github.com/jerryjliu/llama_index)): Connect custom data to LLM applications.
